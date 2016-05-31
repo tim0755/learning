@@ -1,3 +1,6 @@
+/*
+ *模拟cpu的使用率是一条直线
+ */
 #include <unistd.h>
 #include <dos.h>
 int main(void)
